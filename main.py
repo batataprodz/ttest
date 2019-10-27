@@ -1,4 +1,11 @@
-import os, binascii, hashlib, base58, ecdsa, time, balance_checker, static
+import os
+import binascii
+import hashlib
+import base58
+import ecdsa
+import time
+import balance_checker
+import static
 
 
 def cls():
